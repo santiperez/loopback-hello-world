@@ -1,0 +1,10 @@
+{
+  "db": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "mongodb://localhost:27017/loopback-hello-world",
+    "database": "loopback-hello-world",
+    "name": "db",
+    "connector": "mongodb"
+  }
+}
